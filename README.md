@@ -2,6 +2,14 @@
 
 `eslint` `prettier` `nodemon`
 
+## Install dependencies
+
+```bash
+yarn install
+# or
+npm install
+```
+
 ## Run JS
 
 ```bash
